@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tasmin-Chu
-- 👀 I’m interested in mathematics, probability theory, and analysis with a forbidden dash of category theory.
+- 👀 I’m interested in mathematics, probability theory, and analysis (with a forbidden dash of category theory).
 - 📫 How to reach me: email me at tazlchu@gmail.com
 
 <!---
